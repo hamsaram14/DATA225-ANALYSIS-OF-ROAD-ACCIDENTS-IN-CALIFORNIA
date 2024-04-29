@@ -4,9 +4,9 @@ Millions of people are injured and lose their lives in traffic accidents every y
 
 We used the following technologies/tools:
 1. PostgreSQL
-2. MongoDB
-3. AWS S3
+2. MongoDB 
+3. AWS S3 Bucket
 4. Amazon Redshift
-5. Tableau
-6. Python Pandas
-7. MySQL Workbench
+5. Python Pandas
+6. MySQL Workbench
+7. AWS Glue
